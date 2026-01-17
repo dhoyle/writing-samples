@@ -9,11 +9,11 @@ Included in this repo are:
 * A [user guide](https://github.com/dhoyle/writing-samples/blob/main/DataRobot_User_Guide.pdf) I wrote at DataRobot (v1 for a brand new ML platform).
 
 ## Markdown/GitHub Samples
-* [Owncloud Server quickstart guide](https://davidhoyle.github.io/github.io/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is here: [https://github.com/davidhoyle/github.io](https://github.com/davidhoyle/github.io)
-* [Splice Machine documentation](https://dhoyle.github.io/splicedocs-jekyll/) -- I did some part-time consulting work for Splice Machine for about a year (2020-2021). Splice Machine was a scale-out SQL RDBMS, Data Warehouse, and Machine Learning platform that has gone out of business. I authored this content using Markdown and Jekyll. You can see my commits here: [https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice](https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice)
+* [Owncloud Server quickstart guide](https://davidhoyle.github.io/github.io/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is [here](https://github.com/davidhoyle/github.io).
+* [Splice Machine documentation](https://dhoyle.github.io/splicedocs-jekyll/) -- I did some part-time consulting work for Splice Machine for about a year (2020-2021). Splice Machine was a scale-out SQL RDBMS, Data Warehouse, and Machine Learning platform that has gone out of business. I authored this content using Markdown and Jekyll. You can see my commits [here](https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice).
 ## Less Technical Content
 Also included here: 
 * A couple of reference architectures I wrote at Hortonworks:
- * [Combining Hortonworks with Informatica](https://github.com/dhoyle/writing-samples/blob/main/Combining_Hortonworks_with_Informatica.pdf)
- * [Hortonworks Tableau Reference Architecture](https://github.com/dhoyle/writing-samples/blob/main/Hortonworks_Tableau_reference_architecture.pdf)
-* A [whitepaper](https://github.com/dhoyle/writing-samples/blob/main/Why_Use_Aerospike_v5.pdf) I wrote for Aerospike 
+  * [Combining Hortonworks with Informatica](https://github.com/dhoyle/writing-samples/blob/main/Combining_Hortonworks_with_Informatica.pdf)
+  * [Hortonworks Tableau Reference Architecture](https://github.com/dhoyle/writing-samples/blob/main/Hortonworks_Tableau_reference_architecture.pdf)
+* A [whitepaper](https://github.com/dhoyle/writing-samples/blob/main/Why_Use_Aerospike_v5.pdf) I wrote for Aerospike. 

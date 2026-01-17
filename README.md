@@ -4,8 +4,11 @@ Included here are:
 * The PDF version of the Visual Builder Studio [user guide](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/index.html) I worked on recently at Oracle
 * A couple of sandbox tutorials I wrote at Hortonworks (which merged with Cloudera)
 * A tutorial I wrote for Google on using PostgreSQL with Google App Engine (I wrote the simple code samples in that one)
-* A user guide I wrote at DataRobot (v1 for a brand new ML platform) 
+* A user guide I wrote at DataRobot (v1 for a brand new ML platform)
 
+## Markdown/GitHub Samples
+* [Owncloud Server quickstart guide](https://davidhoyle.github.io/github.io/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is here: [https://github.com/davidhoyle/github.io](https://github.com/davidhoyle/github.io)
+* [Splice Machine documentation](https://dhoyle.github.io/splicedocs-jekyll/) -- I did some part-time consulting work for Splice Machine for about a year (2020-2021). Splice Machine was a scale-out SQL RDBMS, Data Warehouse, and Machine Learning platform that has gone out of business. I authored this content using Markdown and Jekyll. You can see my commits here: [https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice](https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice)
 ## Less Technical Content
 Also included here: 
 * A couple of reference architectures I wrote at Hortonworks

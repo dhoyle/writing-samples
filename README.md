@@ -1,7 +1,7 @@
 # David Hoyle Writing Samples
 ## Technical Content
 Included in this repo are: 
-* The PDF version of the Visual Builder Studio [user guide](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/index.html) I worked on recently at Oracle
+* The [PDF version](https://github.com/dhoyle/writing-samples/blob/main/using-visual-builder-studio.pdf) of the Visual Builder Studio [user guide](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/index.html) I worked on recently at Oracle.
 * A couple of sandbox tutorials I wrote at Hortonworks (which merged with Cloudera)
   * [Installing and Configuring the Hortonworks ODBC Driver on MacOSX](https://github.com/dhoyle/writing-samples/blob/main/Installing%20and%20Configuring%20the%20Hortonworks%20ODBC%20Driver%20-%20MacOSX.pdf)
   * [Refining and Visualizing Sentiment Data](https://github.com/dhoyle/writing-samples/blob/main/Refining%20and%20Visualizing%20Sentiment%20Data.pdf)

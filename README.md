@@ -2,11 +2,11 @@
 ## Technical Content
 Included in this repo are: 
 * The [PDF version](https://github.com/dhoyle/writing-samples/blob/main/using-visual-builder-studio.pdf) of the Visual Builder Studio [user guide](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/index.html) I worked on recently at Oracle.
-* A couple of sandbox tutorials I wrote at Hortonworks (which merged with Cloudera)
+* A couple of sandbox tutorials I wrote at Hortonworks (which merged with Cloudera):
   * [Installing and Configuring the Hortonworks ODBC Driver on MacOSX](https://github.com/dhoyle/writing-samples/blob/main/Installing%20and%20Configuring%20the%20Hortonworks%20ODBC%20Driver%20-%20MacOSX.pdf)
   * [Refining and Visualizing Sentiment Data](https://github.com/dhoyle/writing-samples/blob/main/Refining%20and%20Visualizing%20Sentiment%20Data.pdf)
-* A tutorial I wrote for Google on [Using PostgreSQL with Google App Engine](https://github.com/dhoyle/writing-samples/blob/main/UsingPostgreSQLonGoogleAppEngine.pdf) (I wrote the simple code samples in that one)
-* A [user guide]() I wrote at DataRobot (v1 for a brand new ML platform)
+* A tutorial I wrote for Google on [Using PostgreSQL with Google App Engine](https://github.com/dhoyle/writing-samples/blob/main/UsingPostgreSQLonGoogleAppEngine.pdf) (I wrote the simple code samples in that one).
+* A [user guide](https://github.com/dhoyle/writing-samples/blob/main/DataRobot_User_Guide.pdf) I wrote at DataRobot (v1 for a brand new ML platform).
 
 ## Markdown/GitHub Samples
 * [Owncloud Server quickstart guide](https://davidhoyle.github.io/github.io/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is here: [https://github.com/davidhoyle/github.io](https://github.com/davidhoyle/github.io)

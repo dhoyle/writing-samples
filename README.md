@@ -3,7 +3,7 @@
 Included in this repo are: 
 * The PDF version of the Visual Builder Studio [user guide](https://docs.oracle.com/en/cloud/paas/visual-builder/visualbuilder-manage-development-process/index.html) I worked on recently at Oracle
 * A couple of sandbox tutorials I wrote at Hortonworks (which merged with Cloudera)
-  * [Installing and Configuring the Hortonworks ODBC Driver on MacOSX]()
+  * [Installing and Configuring the Hortonworks ODBC Driver on MacOSX](https://github.com/dhoyle/writing-samples/blob/main/Installing%20and%20Configuring%20the%20Hortonworks%20ODBC%20Driver%20-%20MacOSX.pdf)
   * [Refining and Visualizing Sentiment Data]()
 * A tutorial I wrote for Google on [Using PostgreSQL with Google App Engine](https://github.com/dhoyle/writing-samples/blob/main/UsingPostgreSQLonGoogleAppEngine.pdf) (I wrote the simple code samples in that one)
 * A user guide I wrote at DataRobot (v1 for a brand new ML platform)

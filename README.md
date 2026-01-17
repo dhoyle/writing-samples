@@ -14,6 +14,6 @@ Included in this repo are:
 ## Less Technical Content
 Also included here: 
 * A couple of reference architectures I wrote at Hortonworks
- * [Combining Hortonworks with Informatica]()
+ * [Combining Hortonworks with Informatica](https://github.com/dhoyle/writing-samples/blob/main/Combining_Hortonworks_with_Informatica.pdf)
  * [Hortonworks Tableau Reference Architecture]()
 * A [whitepaper]() I wrote for Aerospike 

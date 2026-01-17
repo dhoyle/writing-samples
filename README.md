@@ -9,7 +9,7 @@ Included in this repo are:
 * A [user guide](https://github.com/dhoyle/writing-samples/blob/main/DataRobot_User_Guide.pdf) I wrote at DataRobot (v1 for a brand new ML platform).
 
 ## Markdown/GitHub Samples
-* [Owncloud Server quickstart guide](https://dhoyle.github.io/github.io/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is [here](https://github.com/dhoyle/ownCloud-quickstart).
+* [Owncloud Server quickstart guide](https://dhoyle.github.io/ownCloud-quickstart/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is [here](https://github.com/dhoyle/ownCloud-quickstart).
 * [Splice Machine documentation](https://dhoyle.github.io/splicedocs-jekyll/) -- I did some part-time consulting work for Splice Machine for about a year (2020-2021). Splice Machine was a scale-out SQL RDBMS, Data Warehouse, and Machine Learning platform that has gone out of business. I authored this content using Markdown and Jekyll. You can see my commits [here](https://github.com/dhoyle/splicedocs-jekyll/commits/Doc3.1/?author=dhoyle-splice).
 ## Less Technical Content
 Also included here: 

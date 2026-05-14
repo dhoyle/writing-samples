@@ -10,6 +10,7 @@ Included in this repo are:
 
 ## Editing
 * Debug Operations in Kubernetes: [Before](https://github.com/dhoyle/docs-assignments/blob/main/technical-writer/assignment.md) | [After](https://github.com/dhoyle/docs-assignments/blob/dhoyle-assignment/technical-writer/assignment.md)
+* Why should you choose Zilliz Cloud? [Before](https://github.com/dhoyle/writing-samples/blob/main/why-zilliz-cloud-unedited.md) | [After](https://github.com/dhoyle/writing-samples/blob/main/why-zilliz-cloud-edited.md)
 
 ## Markdown/GitHub Samples
 * [Owncloud Server quickstart guide](https://dhoyle.github.io/ownCloud-quickstart/) -- This is a GitHub pages site I created for a writing test. The assignment was to create a quickstart guide for Owncloud Server, author the content using Markdown, and publish the content using Jekyll on GitHub pages. The GitHub repo with the source files is [here](https://github.com/dhoyle/ownCloud-quickstart).

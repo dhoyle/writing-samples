@@ -34,3 +34,6 @@
 
 * [DPI Digital Impression System User Guide](https://github.com/dhoyle/writing-samples/blob/main/DPI/Digital%20Impression%20System%20User%20Guide.pdf) 
 * [DPI Digital Impression System Training Guide](https://github.com/dhoyle/writing-samples/blob/main/DPI/Digital%20Impression%20System%20Training%20Guide.pdf)
+* [DPI Usability Specification](https://github.com/dhoyle/writing-samples/blob/main/DPI/Usability%20Specification.pdf)
+* [DPI Validation Plan](https://github.com/dhoyle/writing-samples/blob/main/DPI/Usability_Validation_Plan_UI02.pdf)
+* [DPI Verification Plan](https://github.com/dhoyle/writing-samples/blob/main/DPI/Usability_Verification_Plan_UI01.pdf)

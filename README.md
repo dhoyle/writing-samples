@@ -29,3 +29,8 @@
 * [Dataupia Deployment Guide](https://github.com/dhoyle/writing-samples/blob/main/Dataupia_Deployment_Guide_2.2.pdf)
 * Micrion Focused Ion Beam (FIB) System: [Laser Alignment](https://github.com/dhoyle/writing-samples/blob/main/B3_5_laser.pdf)
 * Micrion Focused Ion Beam (FIB) System: [MCP Replacement](https://github.com/dhoyle/writing-samples/blob/main/B5_3_05_mcp.pdf)
+
+## Medical Devices
+
+* [DPI Digital Impression System User Guide](https://github.com/dhoyle/writing-samples/blob/main/DPI/Digital%20Impression%20System%20User%20Guide.pdf) 
+* [DPI Digital Impression System Training Guide](https://github.com/dhoyle/writing-samples/blob/main/DPI/Digital%20Impression%20System%20Training%20Guide.pdf)
